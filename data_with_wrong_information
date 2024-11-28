@@ -1,0 +1,5 @@
+[
+  {"timestamp": "2024-11-01T12:00:00", "temperature": 78.5, "wrong": 101.2},
+  {"timestamp": "2024-11-01T12:10:00", "temperature": 79.0, "wrong": 100.8},
+  {"timestamp": "2024-11-01T12:20:00", "temperature": 77.5, "wrong": 102.1}
+]
